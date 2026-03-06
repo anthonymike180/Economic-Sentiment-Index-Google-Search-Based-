@@ -12,6 +12,10 @@
 
 <br>
 
+<p align="center">
+  <img src="images/Screenshot (209).png" alt="Dashboard Preview" width="90%"/>
+</p>
+
 ---
 
 ## 📌 Project Overview
