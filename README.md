@@ -1,6 +1,5 @@
 # 🔍 Economic Sentiment Index Search-Based Dashboard
 ### *Can Google Search Behavior Predict Economic Stress Before Official Statistics Are Released?*
-<br>
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -8,8 +7,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
-
-<br>
 
 ---
 
@@ -438,12 +435,11 @@ Clean, commented, modular code with docstrings, error handling, fallback logic, 
 
 ## 👤 Author
 
-**[Your Name]**
+**Antrhony Michael**
 
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub Profile](https://github.com/yourusername)  
-🌐 [Portfolio Website](https://yourwebsite.com)
+📧 anthonymike9110@gmail.com  
+🔗 [LinkedIn Profile](https://linkedin.com/in/anthony-michael-b36382259)  
+🐙 [GitHub Profile](https://github.com/anthonymike180)  
 
 <br>
 
@@ -456,7 +452,7 @@ This project is licensed under the **MIT License** — you are free to use, modi
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2026 Anthony Michael
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
