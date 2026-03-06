@@ -1,4 +1,4 @@
-# 🔍 Search-Based Economic Sentiment Index Dashboard
+# 🔍  Economic Sentiment Index Search-Based Dashboard
 ### *Can Google Search Behavior Predict Economic Stress Before Official Statistics Are Released?*
 
 <br>
